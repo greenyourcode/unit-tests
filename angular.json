@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "unit-tests"
+    }
+  },
+  "defaultProject": "unit-tests",
+  "cli": {
+    "analytics": false
+  }
 }
